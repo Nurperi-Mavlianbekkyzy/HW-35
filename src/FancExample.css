@@ -1,0 +1,26 @@
+.conteiner{
+    margin-left: 600px;
+    text-align: center;
+    background-color: rgb(41, 159, 189);
+    width: 200px;
+    height: 250px;
+}
+
+div{
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+button{
+    background-color: darkseagreen;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+h2{
+    color: tomato;
+}
+p{
+    color: rgb(247, 213, 59);
+}
